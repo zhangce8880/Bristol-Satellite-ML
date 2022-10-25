@@ -1,5 +1,5 @@
 # DSNE Machine Learning Workshop
-## Land Cover Classification using satellite imagery
+## Land cover classification using satellite imagery
 
 * K-Nearest Neighbor Classifier (KNN)
 
