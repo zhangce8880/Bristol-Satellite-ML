@@ -1,1 +1,1 @@
-# DSNE_ML_Workshop
+# DSNE Machine Learning Workshop
