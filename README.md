@@ -1,4 +1,4 @@
-# DSNE Machine Learning Workshop
+# Bristol Summer School - Machine Learning
 ## Land cover classification using satellite imagery
 
 * K-Nearest Neighbor Classifier (KNN)
